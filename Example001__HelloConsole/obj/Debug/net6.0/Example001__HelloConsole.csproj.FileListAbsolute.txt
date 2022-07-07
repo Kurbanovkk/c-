@@ -1,0 +1,15 @@
+C:\Users\kurba\Desktop\C#_Начало\Example001__HelloConsole\bin\Debug\net6.0\Example001__HelloConsole.exe
+C:\Users\kurba\Desktop\C#_Начало\Example001__HelloConsole\bin\Debug\net6.0\Example001__HelloConsole.deps.json
+C:\Users\kurba\Desktop\C#_Начало\Example001__HelloConsole\bin\Debug\net6.0\Example001__HelloConsole.runtimeconfig.json
+C:\Users\kurba\Desktop\C#_Начало\Example001__HelloConsole\bin\Debug\net6.0\Example001__HelloConsole.dll
+C:\Users\kurba\Desktop\C#_Начало\Example001__HelloConsole\bin\Debug\net6.0\Example001__HelloConsole.pdb
+C:\Users\kurba\Desktop\C#_Начало\Example001__HelloConsole\obj\Debug\net6.0\Example001__HelloConsole.csproj.AssemblyReference.cache
+C:\Users\kurba\Desktop\C#_Начало\Example001__HelloConsole\obj\Debug\net6.0\Example001__HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurba\Desktop\C#_Начало\Example001__HelloConsole\obj\Debug\net6.0\Example001__HelloConsole.AssemblyInfoInputs.cache
+C:\Users\kurba\Desktop\C#_Начало\Example001__HelloConsole\obj\Debug\net6.0\Example001__HelloConsole.AssemblyInfo.cs
+C:\Users\kurba\Desktop\C#_Начало\Example001__HelloConsole\obj\Debug\net6.0\Example001__HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\kurba\Desktop\C#_Начало\Example001__HelloConsole\obj\Debug\net6.0\Example001__HelloConsole.dll
+C:\Users\kurba\Desktop\C#_Начало\Example001__HelloConsole\obj\Debug\net6.0\refint\Example001__HelloConsole.dll
+C:\Users\kurba\Desktop\C#_Начало\Example001__HelloConsole\obj\Debug\net6.0\Example001__HelloConsole.pdb
+C:\Users\kurba\Desktop\C#_Начало\Example001__HelloConsole\obj\Debug\net6.0\Example001__HelloConsole.genruntimeconfig.cache
+C:\Users\kurba\Desktop\C#_Начало\Example001__HelloConsole\obj\Debug\net6.0\ref\Example001__HelloConsole.dll
